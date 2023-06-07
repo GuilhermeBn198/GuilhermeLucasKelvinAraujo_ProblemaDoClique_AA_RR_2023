@@ -68,3 +68,7 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
         -   existem 5 cliques nesse grafo pois para se ter um clique **precisa** de ligação direta entre os vertices. Ex: 2,3,4,6,7 são cliques.
         -   logo, esse grafo possui:
             -   5 cliques de 2 vertices
+
+## **Referências**
+
+-   https://www.youtube.com/watch?v=zxOB8ZttErk
