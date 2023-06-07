@@ -11,18 +11,21 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
     -   Colete tweets do Twitter utilizando como chave de coleta os trending topics. Em seguida,
         defina conjuntos que deverão ser análisado como cliques, para identificar a relação/conexão
         entre os tweets;
-    -   Pesquise e adote um benchmark de grafos para uma avaliação experimental; e
+    -   Pesquise e adote um benchmark de grafos para uma avaliação experimental;
     -   Apresente uma análise sobre os resultados encontrados com os algoritmos.
 
 ## TO-DO's:
 
--   [ ] definir as ferramentas do trabalho
+-   [ ] Faça um análise e descrição do seguinte artigo - Finding All Maximal Connected s-Cliques
+    in Social Networks
+    -   [x] análise do artigo
+    -   [ ] resolução de síntese e descrição
+-   [x] definir as ferramentas do trabalho
     -   Github
     -   Notion
     -   Google Docs
     -   VSCode
-    -   b
-    -   c
+    -   Twitter Api
 -   [ ] Definir o cronograma de planejamento do projeto
     -   [ ] a
     -   [ ] b
