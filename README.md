@@ -43,15 +43,28 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
 
 # **problema do clique**
 
+## **características**
+
+-   Grafo não direcionado
+-   possui **K-cliques**
+
 ## **o que é um clique?**
 
--   é uma representação de um subconjunto cm **K-arestas**, EX:
-    -   imagine 1 grafo com 4 vertices e 4 arestas que ligam os vertices.
-        <br>
-        ![imagem](/img/clique1.png)
-    -   nesta imagem temos:
-        -   4 cliques de 1 vertice(como são de tamanho 1, conjuntos de vertices de 1 clique representam o próprio vertice)
-        -   4 cliques de 2 vertices(esses cliques representam a combinação de 4 diferentes vertices)
-        -   1 clique de 4 vertices(representa o grafo inteiro(nesse casso))
+-   é uma representação de um subconjunto cm **K-arestas** onde deve haver conexão direta entre os vertices
+    -   **EXEMPLO DE GRAFO COM 4 CLIQUES**:
+        -   imagine 1 grafo com 4 vertices e 4 arestas que ligam os vertices.
             <br>
-            ![imagem2](/img/clique2.png)
+            ![imagem](/img/clique1.png)
+        -   nesta imagem temos:
+            -   4 cliques de 1 vertice(como são de tamanho 1, conjuntos de vertices de 1 clique representam o próprio vertice)
+            -   4 cliques de 2 vertices(esses cliques representam a combinação de 4 diferentes vertices)
+            -   1 clique de 4 vertices(representa o grafo inteiro(nesse casso))
+                <br>
+                ![imagem2](/img/clique2.png)
+    -   **EXEMPLO DE UM GRAFO COM 5 CLIQUES(SEM TODOS OS VERTICES LIGADOS)**
+        -   imagine 1 grafo com 7 vertices e 15 arestas ligando quase todos os vertices entre si, com exceção da ligação entre o vertice 2 e 5.
+            <br>
+            ![imagem3](/img/nclique1.png)
+        -   existem 5 cliques nesse grafo pois para se ter um clique **precisa** de ligação direta entre os vertices. Ex: 2,3,4,6,7 são cliques.
+        -   logo, esse grafo possui:
+            -   5 cliques de 2 vertices
