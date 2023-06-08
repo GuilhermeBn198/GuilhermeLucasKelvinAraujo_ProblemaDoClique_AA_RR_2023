@@ -86,24 +86,33 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
 
 ### **Prova 1:**
 
--   Construímos um verificador polinomial que recebe uma instância do problema e verifica se **C** é uma solução pra **<G,k>**
+-   Construímos um verificador polinomial que recebe uma instância do problema e verifica se **C** é uma solução pra **&lt;G,5&gt;**
 
-    -   se for verdadeiro significa q a cadeia **<G,k>** está dentro da linguagem **Clique ∈ NP**
+    -   se for verdadeiro significa q a cadeia **&lt;G,5&gt;** está dentro da linguagem **Clique ∈ NP**
 
--   certificado **"c"** = conjunto de nós de **k-cliques**
+-   certificado **"c"** = conjunto de nós(vértices) de **k-cliques**
 
     <br>
 
--   Verificador(V) = entrada **<<G,k>, C>** onde **G** = é o grafo e **k** é o nó a ser verificado
+-   Verificador(V) = entrada **<&lt;G,k&gt;, C>** onde **G** = é o grafo e **k** é o nó a ser verificado
 
-    -   por exemplo, vamos considerar o grafo G supracitado e a sequência apresentada para o mesmo.
+    -   por exemplo, vamos considerar o grafo **G** supracitado e a sequência apresentada para o mesmo.
         <br><br><br>
-        <h2><strong>V = <<G,5>, "2,3,4,6,7"></strong></h2>
+        <h2><strong>V = <&lt;G,5&gt;, "2,3,4,6,7"></strong></h2>
         <br><br>
 
     **1.** O(m²) --> verifique se **C** é um subconjunto de **k** nós de **G**, se não rejeite.
 
     **2.** O(m⁴) --> verifique se **TODOS** os nós em **C** estão conectados, se estão -> aceite, se não rejeite.
+
+### **Prova 2**
+
+-   Construir uma `Máquina de Turing não-determinística` que decide **Clique** em tempo **polinomial**
+    <h2><strong>N = entrada &lt;G,5&gt;</strong></h2>
+
+    **1.** O(m) --> Não-deterministicamente seleciona o conjunto de nós de **G**.
+
+    **2.** O(m⁴) --> Verifique se todos os **nós** do subconjunto estão **conectados**, se estão -> **aceite**, se não **rejeite**.
 
 ## **Referências**
 
