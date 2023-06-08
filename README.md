@@ -69,6 +69,23 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
         -   logo, esse grafo possui:
             -   5 cliques de 2 vertices
 
+### **Definição de um clique**
+
+-   Dado o exemplo da primeira imagem, assumindo que é um grafo G, um clique é:
+    -   {<G,k>/G é um grafo não direcionado com K-cliques}
+
+## **Teorema e provas**
+
+### **Clique ∈ NP**
+
+### **Diferenças classes de problemas N e NP**
+
+-   N =
+
+### **Prova 1:**
+
+-
+
 ## **Referências**
 
 -   https://www.youtube.com/watch?v=zxOB8ZttErk
