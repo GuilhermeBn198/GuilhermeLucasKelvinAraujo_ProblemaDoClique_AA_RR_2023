@@ -71,20 +71,39 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
 
 ### **Definição de um clique**
 
--   Dado o exemplo da primeira imagem, assumindo que é um grafo G, um clique é:
+-   Dado o exemplo da terceira imagem, assumindo que é um grafo G, um clique é:
     -   {<G,k>/G é um grafo não direcionado com K-cliques}
 
 ## **Teorema e provas**
 
 ### **Clique ∈ NP**
 
-### **Diferenças classes de problemas N e NP**
+### **Diferenças classes de problemas P e NP**
 
--   N =
+-   P = a pertinência pode ser DECIDIDA "rapidamente"
+-   NP = a pertinência pode ser VERIFICADA "rapidamente"
+-   "rapidamente" = TEMPO POLINOMIAL
 
 ### **Prova 1:**
 
--
+-   Construímos um verificador polinomial que recebe uma instância do problema e verifica se **C** é uma solução pra **<G,k>**
+
+    -   se for verdadeiro significa q a cadeia **<G,k>** está dentro da linguagem **Clique ∈ NP**
+
+-   certificado **"c"** = conjunto de nós de **k-cliques**
+
+    <br>
+
+-   Verificador(V) = entrada **<<G,k>, C>** onde **G** = é o grafo e **k** é o nó a ser verificado
+
+    -   por exemplo, vamos considerar o grafo G supracitado e a sequência apresentada para o mesmo.
+        <br><br><br>
+        <h2><strong>V = <<G,5>, "2,3,4,6,7"></strong></h2>
+        <br><br>
+
+    **1.** O(m²) --> verifique se **C** é um subconjunto de **k** nós de **G**, se não rejeite.
+
+    **2.** O(m⁴) --> verifique se **TODOS** os nós em **C** estão conectados, se estão -> aceite, se não rejeite.
 
 ## **Referências**
 
