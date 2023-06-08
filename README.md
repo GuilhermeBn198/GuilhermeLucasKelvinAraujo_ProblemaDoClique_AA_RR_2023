@@ -18,7 +18,7 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
 
 ## TO-DO's:
 
--   [ ] Faça um análise e descrição do seguinte artigo - Finding All Maximal Connected s-Cliques
+-   [x] Faça um análise e descrição do seguinte artigo - Finding All Maximal Connected s-Cliques
         in Social Networks
     -   [x] análise do artigo
     -   [x] resolução de síntese e descrição(ABAIXO)
@@ -29,9 +29,13 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
     -   VSCode
     -   Twitter Api
 -   [ ] Definir o cronograma de planejamento do projeto
-    -   [ ] a
-    -   [ ] b
-    -   [ ] c
+    -   [ ] semana 5/06 ~ 12/06 -> organização do projeto, estudo das ferramentas e problemas de pesquisa; pesquisa de materiais.
+        -   [x] organização do repositório
+        -   [x] organização do relatório
+        -   [ ] pesquisa de materiais
+        -   [ ] problemas de pesquisa
+    -   [ ] semana 13/06 ~ 19/06 -> desenvolvimento de metodologia...
+    -   [ ] semana 20/06 ~ 26/06 -> finalização de pesquisa, desenvolvimento de apresentação e entrega dos trabalhos
 -   [ ] procurar sobre mitigação de risco
     -   [ ] a
     -   [ ] b
@@ -124,6 +128,25 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
 
     **2.** O(m⁴) --> Verifique se todos os **nós** do subconjunto estão **conectados**, se estão -> **aceite**, se não **rejeite**.
 
+## Algoritmo de Bron-Kerbosch
+
+-   O algoritmo Bron-Kerbosch é um algoritmo de backtracking recursivo que procura todos os cliques máximos em um grafo não direcionado
+-   O algoritmo recebe três conjuntos de vértices R, P e X como entrada e encontra todos os cliques máximos que incluem todos os vértices em R, alguns dos vértices em P e nenhum dos vértices em X
+
+O artigo “Finding All Maximal Connected s-Cliques in Social Networks” de Rachel Behar e Sara Cohen apresenta várias variantes do algoritmo Bron-Kerbosch para geração de cliques máximos
+
+Aqui tem um exemplo do algoritmo Bron-Kerbosch para geração de cliques máximos original(ineficiente)
+
+```
+algorithm BronKerbosch1(R, P, X) is
+    if P and X are both empty then
+        report R as a maximal clique
+    for each vertex v in P do
+        BronKerbosch1(R ⋃ {v}, P ⋂ N(v), X ⋂ N(v))
+        P := P \ {v}
+        X := X ⋃ {v}
+```
+
 ---
 
 ---
@@ -133,3 +156,6 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
 ## **Referências**
 
 -   https://www.youtube.com/watch?v=zxOB8ZttErk
+-   https://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm
+-   https://www.youtube.com/watch?v=zxOB8ZttErk
+-
