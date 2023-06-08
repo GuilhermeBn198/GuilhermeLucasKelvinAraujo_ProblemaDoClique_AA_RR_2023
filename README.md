@@ -2,6 +2,8 @@
 
 Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://github.com/hbgit)
 
+Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hreupGNYNrnvXrRlGJ4cHMCgvzIqBB4R/edit?usp=sharing&ouid=100008897815631174283&rtpof=true&sd=true)
+
 ## Objetivos:
 
 -   Faça um análise e descrição do seguinte artigo - Finding All Maximal Connected s-Cliques
@@ -19,7 +21,7 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
 -   [ ] Faça um análise e descrição do seguinte artigo - Finding All Maximal Connected s-Cliques
         in Social Networks
     -   [x] análise do artigo
-    -   [ ] resolução de síntese e descrição
+    -   [x] resolução de síntese e descrição(ABAIXO)
 -   [x] definir as ferramentas do trabalho
     -   Github
     -   Notion
@@ -69,10 +71,17 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
         -   logo, esse grafo possui:
             -   5 cliques de 2 vertices
 
+---
+
+---
+
+---
+
 ### **Definição de um clique**
 
--   Dado o exemplo da terceira imagem, assumindo que é um grafo G, um clique é:
+-   Dado o exemplo da terceira imagem, assumindo que é um grafo **G**, um clique é:
     -   {<G,k>/G é um grafo não direcionado com K-cliques}
+    -   ou seja Um **k-clique** é um subconjunto de vértices em um grafo onde cada vértice está conectado a todos os outros vértices no subconjunto.
 
 ## **Teorema e provas**
 
@@ -97,6 +106,7 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
 -   Verificador(V) = entrada **<&lt;G,k&gt;, C>** onde **G** = é o grafo e **k** é o nó a ser verificado
 
     -   por exemplo, vamos considerar o grafo **G** supracitado e a sequência apresentada para o mesmo.
+
         <br><br><br>
         <h2><strong>V = <&lt;G,5&gt;, "2,3,4,6,7"></strong></h2>
         <br><br>
@@ -113,6 +123,12 @@ Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://gi
     **1.** O(m) --> Não-deterministicamente seleciona o conjunto de nós de **G**.
 
     **2.** O(m⁴) --> Verifique se todos os **nós** do subconjunto estão **conectados**, se estão -> **aceite**, se não **rejeite**.
+
+---
+
+---
+
+---
 
 ## **Referências**
 
