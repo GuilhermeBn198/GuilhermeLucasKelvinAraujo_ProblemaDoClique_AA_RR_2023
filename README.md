@@ -56,7 +56,7 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
 
 ## **o que é um clique?**
 
--   é uma representação de um subconjunto cm **K-arestas** onde deve haver conexão direta entre os vertices
+-   é uma representação de um subconjunto cm **K-vertices** onde todos os vertices são adjacentes um ao outro, se esse clique for isolado, poderá representar um novo grafo.
     -   **EXEMPLO DE GRAFO COM 4 CLIQUES**:
         -   imagine 1 grafo com 4 vertices e 4 arestas que ligam os vertices.
             <br>
@@ -64,7 +64,6 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
         -   nesta imagem temos:
             -   4 cliques de 1 vertice(como são de tamanho 1, conjuntos de vertices de 1 clique representam o próprio vertice)
             -   4 cliques de 2 vertices(esses cliques representam a combinação de 4 diferentes vertices)
-            -   1 clique de 4 vertices(representa o grafo inteiro(nesse casso))
                 <br>
                 ![imagem2](/img/clique2.png)
     -   **EXEMPLO DE UM GRAFO COM 5 CLIQUES(SEM TODOS OS VERTICES LIGADOS)**
@@ -74,18 +73,21 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
         -   existem 5 cliques nesse grafo pois para se ter um clique **precisa** de ligação direta entre os vertices. Ex: 2,3,4,6,7 são cliques.
         -   logo, esse grafo possui:
             -   5 cliques de 2 vertices
+            -   1 clique máximo
+
+    -   **CLIQUE MÁXIMO**
+        -   é um clique que não pode ser extendido com a adição de mais um vértice
+        
+        -   **PARA IDENTIFICAR SE UM CLIQUE É MAXIMO OU NÃO**
+        -   um clique máximo só é máximo se a nova adição de vertice for adjacente a **todos** os vertices ja existentes no clique
+
 
 ---
 
 ---
 
 ---
-
-### **Definição de um clique**
-
--   Dado o exemplo da terceira imagem, assumindo que é um grafo **G**, um clique é:
-    -   {<G,k>/G é um grafo não direcionado com K-cliques}
-    -   ou seja Um **k-clique** é um subconjunto de vértices em um grafo onde cada vértice está conectado a todos os outros vértices no subconjunto.
+    
 
 ## **Teorema e provas**
 
@@ -146,7 +148,17 @@ algorithm BronKerbosch1(R, P, X) is
         P := P \ {v}
         X := X ⋃ {v}
 ```
+---
 
+---
+
+---
+
+## **Tests**
+### **para testes tentaremos utilizar 3 abordagens diferentes**
+-   Algoritmo guloso
+-   depth-first search(baseado no algoritmo explorado no artigo de sara cohen)
+-   força-bruta(baseado na implementação do felipe derkian) 
 ---
 
 ---
