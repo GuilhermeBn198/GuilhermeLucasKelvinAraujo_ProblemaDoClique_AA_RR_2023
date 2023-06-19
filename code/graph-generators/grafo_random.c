@@ -49,7 +49,7 @@ void criar_Grafo(){
             int h;
             do{
                 h = rand() % (vertices+1);
-            }while(i==h);""
+            }while(i==h);
             fprintf(f , "%d %d\n",i,h);
         }
     }

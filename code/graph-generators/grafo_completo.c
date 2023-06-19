@@ -3,8 +3,6 @@
 #include <string.h>
 #include <math.h>
 
-#define TRUE  1
-#define FALSE 0
 
 
 void criarGrafo(){
@@ -44,6 +42,7 @@ void criarGrafo(){
 
 
 int main(){
+    printf("\n\t\tGerador de Grafos Completos\n\n");
     criarGrafo();
 	return 0;
 }
