@@ -19,7 +19,7 @@ def plot_graph(num_vertices, edges):
     plt.title('Graph Plot')
     plt.show()
 
-file_path = 'ArquivoGrafo.txt'
+file_path = 'RandomGrafo.txt'
 num_vertices, edges = read_graph_from_file(file_path)
 plot_graph(num_vertices, edges)
      
