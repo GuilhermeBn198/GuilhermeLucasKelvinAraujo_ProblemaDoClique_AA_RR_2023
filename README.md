@@ -154,11 +154,15 @@ algorithm BronKerbosch1(R, P, X) is
 
 ---
 
-## **Tests**
+## **Testes**
 ### **para testes tentaremos utilizar 3 abordagens diferentes**
--   Algoritmo guloso
--   depth-first search(baseado no algoritmo explorado no artigo de sara cohen)
 -   força-bruta(baseado na implementação do felipe derkian) 
+-   depth-first search(baseado no algoritmo explorado no artigo de sara cohen)
+-   Algoritmo guloso
+
+### **Geração dos grafos**
+-   Como a abordagem usando dados reais usando os dados do twitter não está funcionando, vamos criar dados imaginários para fazer os testes de performance dos algoritmos.
+    -   Existem 2 tipos de dados, o primeiro com grafos aleatórios e o segundo com grafos completos.
 ---
 
 ---
