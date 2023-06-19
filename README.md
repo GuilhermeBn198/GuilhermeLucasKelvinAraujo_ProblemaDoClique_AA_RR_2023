@@ -32,9 +32,12 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
     -   [ ] semana 5/06 ~ 12/06 -> organização do projeto, estudo das ferramentas e problemas de pesquisa; pesquisa de materiais.
         -   [x] organização do repositório
         -   [x] organização do relatório
-        -   [ ] pesquisa de materiais
-        -   [ ] problemas de pesquisa
-    -   [ ] semana 13/06 ~ 19/06 -> desenvolvimento de metodologia...
+        -   [x] pesquisa de materiais
+        -   [x] problemas de pesquisa
+    -   [x] semana 13/06 ~ 19/06 -> desenvolvimento de metodologia...
+        -   [x] geração dos grafos de teste
+        -   [x] configuração de plataforma de benchmark de testes
+        -   [x] testes com o algoritmo de força bruta
     -   [ ] semana 20/06 ~ 26/06 -> finalização de pesquisa, desenvolvimento de apresentação e entrega dos trabalhos
 -   [ ] procurar sobre mitigação de risco
     -   [ ] a
@@ -48,6 +51,8 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
 ---
 
 # **problema do clique**
+
+o problema do clique refere-se a qualquer problema que possui como objetivo encontrar subgrafos completos ("cliques") em um grafo. Como exemplo, o problema de encontrar conjuntos de nós em que todos os elementos estão conectados entre si.
 
 ## **características**
 
@@ -163,6 +168,10 @@ algorithm BronKerbosch1(R, P, X) is
 ### **Geração dos grafos**
 -   Como a abordagem usando dados reais usando os dados do twitter não está funcionando, vamos criar dados imaginários para fazer os testes de performance dos algoritmos.
     -   Existem 2 tipos de dados, o primeiro com grafos aleatórios e o segundo com grafos completos.
+-   Por convenção, usaremos a nomeação XYVertices para indicar os tipos de dados utilizados em testes. 
+    - Onde `X` representa o tipo de dado, sendo **"C"** para grafos completos e **"R"** para grafos randômicos.
+    - Onde `Y` representa a qualtidade de vertices no grafo, sendo variante entre `5, 10, 15, 20, 25, 30, 40, 45, 50`.
+    - Onde `Vertices` é o nome em comum para a utilização nos testes.
 ---
 
 ---

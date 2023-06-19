@@ -23,7 +23,7 @@ Usage mode:
 
 BINARY_PROGRAM = "main"
 INPUTS_FILE = "inputs"
-TIMES_RUN = 7
+TIMES_RUN = 5
 PATH_FILES_INPUT_LIST = []
 
 
