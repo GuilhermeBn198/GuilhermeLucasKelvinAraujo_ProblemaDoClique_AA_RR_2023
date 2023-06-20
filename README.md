@@ -28,8 +28,8 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
     -   Google Docs
     -   VSCode
     -   Twitter Api
--   [ ] Definir o cronograma de planejamento do projeto
-    -   [ ] semana 5/06 ~ 12/06 -> organização do projeto, estudo das ferramentas e problemas de pesquisa; pesquisa de materiais.
+-   [x] Definir o cronograma de planejamento do projeto
+    -   [x] semana 5/06 ~ 12/06 -> organização do projeto, estudo das ferramentas e problemas de pesquisa; pesquisa de materiais.
         -   [x] organização do repositório
         -   [x] organização do relatório
         -   [x] pesquisa de materiais
@@ -159,19 +159,13 @@ algorithm BronKerbosch1(R, P, X) is
 
 ---
 
-## **Testes**
-### **para testes tentaremos utilizar 3 abordagens diferentes**
--   força-bruta(baseado na implementação do felipe derkian) 
--   depth-first search(baseado no algoritmo explorado no artigo de sara cohen)
--   Algoritmo guloso
+## **Scraping dos trending topics do twitter**
+- abordagem com twitter api + tweepy = problema de autorização do aplicativo + precisa pagar plano PRO
+- abordagem com snsrape = não há suporte para trending topics, porém há para #'s
 
-### **Geração dos grafos**
--   Como a abordagem usando dados reais usando os dados do twitter não está funcionando, vamos criar dados imaginários para fazer os testes de performance dos algoritmos.
-    -   Existem 2 tipos de dados, o primeiro com grafos aleatórios e o segundo com grafos completos.
--   Por convenção, usaremos a nomeação XYVertices para indicar os tipos de dados utilizados em testes. 
-    - Onde `X` representa o tipo de dado, sendo **"C"** para grafos completos e **"R"** para grafos randômicos.
-    - Onde `Y` representa a qualtidade de vertices no grafo, sendo variante entre `5, 10, 15, 20, 25, 30, 40, 45, 50`.
-    - Onde `Vertices` é o nome em comum para a utilização nos testes.
+## **Testes**
+### **para testes utilizaremos a abordagem com algoritmo guloso**
+
 ---
 
 ---
@@ -183,4 +177,5 @@ algorithm BronKerbosch1(R, P, X) is
 -   https://www.youtube.com/watch?v=zxOB8ZttErk
 -   https://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm
 -   https://www.youtube.com/watch?v=zxOB8ZttErk
--
+-   https://github.com/Fan-Yi/Local-Search-for-Maximum-Edge-Weight-Clique/tree/master
+-   https://link.springer.com/article/10.1007/s10878-020-00529-9#citeas
