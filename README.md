@@ -179,3 +179,4 @@ algorithm BronKerbosch1(R, P, X) is
 -   https://www.youtube.com/watch?v=zxOB8ZttErk
 -   https://github.com/Fan-Yi/Local-Search-for-Maximum-Edge-Weight-Clique/tree/master
 -   https://link.springer.com/article/10.1007/s10878-020-00529-9#citeas
+-   https://iq.opengenus.org/greedy-approach-to-find-single-maximal-clique/

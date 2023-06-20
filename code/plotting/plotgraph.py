@@ -29,5 +29,5 @@ def plot_graph(graph):
     plt.show()
 
 # Example usage:
-graph = read_clq_file("graph.clq")
+graph = read_clq_file("plot.clq")
 plot_graph(graph)
