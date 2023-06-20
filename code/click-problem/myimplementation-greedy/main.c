@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
+#include <string.h>
 
 int find_degree(int **graph, int vertex, int *clique, int n) {
     int degree = 0;
@@ -68,9 +69,16 @@ int **read_dimacs_graph(const char *file_path, int *n) {
 
     
 
-    while (fgets(line, sizeof(line), file)) {
+       while (fgets(line, sizeof(line), file)) {
         if (line[0] == 'p') {
-            sscanf(line, "p col %d %d", &num_vertices, &num_edges);
+            if (strstr(line, "p col") != NULL) {
+                sscanf(line, "p col %d %d", &num_vertices, &num_edges);
+            } else if (strstr(line, "p edge") != NULL) {
+                sscanf(line, "p edge %d %d", &num_vertices, &num_edges);
+            } else {
+                printf("Invalid graph format.\n");
+                exit(1);
+            }
             *n = num_vertices; // Update the value of n
             break;
         }
