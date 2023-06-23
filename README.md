@@ -165,6 +165,7 @@ algorithm BronKerbosch1(R, P, X) is
 
 ## **Testes**
 ### **para testes utilizaremos a abordagem com algoritmo guloso**
+para compilar os algoritmos = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
 
 ---
 
