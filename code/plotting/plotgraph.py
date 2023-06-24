@@ -8,6 +8,10 @@ def read_clq_file(file_name):
         for line in file:
             tokens = line.strip().split()
             
+            # Check if tokens is not empty
+            if not tokens:
+                continue
+
             if tokens[0] == "p":
                 num_vertices = int(tokens[2])
                 graph.add_nodes_from(range(1, num_vertices + 1))
@@ -19,6 +23,7 @@ def read_clq_file(file_name):
                 graph.add_edge(vertex1, vertex2)
     
     return graph
+
 
 def plot_graph(graph):
     pos = nx.spring_layout(graph)

@@ -164,6 +164,7 @@ algorithm BronKerbosch1(R, P, X) is
 para compilar os algoritmos em C = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
 para inicializar a plataforma de testes `python script_run_exp1` para utilização do algoritmo aproximado. `python script_run_exp2` para utilização do algoritmo exato.
 
+### foi feito duas implementações com algoritmo guloso, a primeira, com resultados aproximados, sem percorrer todos os vértices do grafo, fazendo com que sua acertividade seja deteriorada, porém sua velocidade de execução é mais rapida que a implementação exata. A segunda implementação, é uma implementação de algoritmo guloso, porém, essa usa força bruta, procurando EM TODOS OS vertices do grafo, até mesmo os que ja foram declarados como partes de um clique maior. 
 ---
 
 ---
