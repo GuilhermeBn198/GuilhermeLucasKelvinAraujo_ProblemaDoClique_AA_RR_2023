@@ -161,7 +161,8 @@ algorithm BronKerbosch1(R, P, X) is
 
 ## **Testes**
 ### **para testes utilizaremos a abordagem com algoritmo guloso**
-para compilar os algoritmos = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
+para compilar os algoritmos em C = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
+para inicializar a plataforma de testes `python script_run_exp1` para utilização do algoritmo aproximado. `python script_run_exp2` para utilização do algoritmo exato.
 
 ---
 
