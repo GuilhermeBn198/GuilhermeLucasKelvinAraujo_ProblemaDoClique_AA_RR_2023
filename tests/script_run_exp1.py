@@ -9,7 +9,7 @@ import logging
 
 logging.basicConfig(
     level=logging.DEBUG,
-    filename="run_exp_data.log",
+    filename="resultados_testes_exato_brock.log",
     filemode="w",
     format="%(process)d - [%(asctime)s] : %(levelname)s -> %(message)s",
 )
@@ -21,8 +21,8 @@ Usage mode:
 3) all outputs are save in the file called execution_log.txt
 """
 
-BINARY_PROGRAM = "main"
-INPUTS_FILE = "testes_de_conceito"
+BINARY_PROGRAM = "exato_tests"
+INPUTS_FILE = "brock"
 TIMES_RUN = 7
 PATH_FILES_INPUT_LIST = []
 
