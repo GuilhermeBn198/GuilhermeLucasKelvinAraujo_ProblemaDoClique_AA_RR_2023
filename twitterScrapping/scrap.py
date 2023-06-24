@@ -1,8 +1,8 @@
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 
-hashtag = "#roraima"
-min_likes = 50
+hashtag = "#submarino"
+min_likes = 0
 
 tweets = []
 for i, tweet in enumerate(sntwitter.TwitterSearchScraper(f'{hashtag}').get_items()):

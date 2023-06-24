@@ -29,13 +29,9 @@ void pulaLinha(){
 }
 
 void imprimeMatriz(){
-
     printf("\n\n\t...Matriz de Adjacencia...\n\n");
-
     int i , j;
-
     printf("\tTotal de Vertices = %d\n\n",Grafo.tamVertices);
-
     printf("\t");
     for(i=0 ; i<=Grafo.tamVertices ; i++){
         printf("%d\t",i);
@@ -49,7 +45,6 @@ void imprimeMatriz(){
         pulaLinha();
     }
     pulaLinha();
-
     printf("\nPress para sair..");
     espera();
     pulaLinha();
@@ -61,10 +56,8 @@ void imprimeMatriz(){
 void limparGrafo(){
     int i,j;
     for(i=0;i<TAM;i++){
-
         Grafo.vetVisitado[i]=0;
         Grafo.tamVertices=0;
-
         for(j=0;j<TAM;j++){
             Grafo.Matriz[i][j]=0;
         }
@@ -73,10 +66,8 @@ void limparGrafo(){
 
 void limpaClique(){
     int i;
-
     CliqueMax.Principal=-1;
     CliqueMax.tamClique=0;
-
     for(i=0;i<TAM;i++){
         CliqueMax.vetClique[i]=-1;
     }
@@ -84,22 +75,17 @@ void limpaClique(){
 
 void lerArquivo() {
     limparGrafo();
-
     FILE *f = fopen("ArquivoGrafo.txt", "r");
-
     if (f == NULL) {
         system("clear");
         printf("\n\n\tNao foi possivel acessar o arquivo...\n\n");
         espera();
         exit(1);
     }
-
     printf("\n\n\t...Lendo Arquivo com Grafo...\n\n");
-
     char line[256];
     int totalVertices, totalEdges;
     char keyword[10];
-
     while (fgets(line, sizeof(line), f)) {
         if (line[0] == 'p') {
             sscanf(line, "p %s %d %d", keyword, &totalVertices, &totalEdges);
@@ -107,7 +93,6 @@ void lerArquivo() {
         } else if (line[0] == 'e') {
             int v, a;
             sscanf(line, "e %d %d", &v, &a);
-
             Grafo.Matriz[v][a] = 1;
             Grafo.Matriz[a][v] = 1;
         }
@@ -118,25 +103,18 @@ void lerArquivo() {
 
 
 void apresentacao(){
-
-	printf("\n\t\t...Problema do Clique Maximo...\n\n\tComponentes\n\t\tFelipe Derkian,\n\t\tBruno Cesar.\n\n");
-
+	printf("\n\t\t!Problema do Clique Maximo!\n\n");
 }
 
 void verificarCliqueMaximo(){
     limpaClique();
 	int  vertice , i , j , tam_adj;
-        tam_adj = 0;
+    tam_adj = 0;
 	int vet_adj[TAM]={0};
-
     printf("\t\t...Procurando Clique no Grafo...\n\n");
-
 	for(vertice=0 ; vertice <= Grafo.tamVertices ; vertice++){
-
         printf("Verificando vertice %d.\n",vertice);
-	
-	tam_adj=0;
-
+	    tam_adj=0;
 		//pega os adjacentes ao vertice selecionado
 		//printf("Procurando Adjacentes..\n");
 		for(i=0 ; i <= Grafo.tamVertices ; i++){
@@ -182,16 +160,11 @@ void verificarCliqueMaximo(){
 }
 
 void imprimeCliqueMax(){
-
 	int i , j;
-
 	printf("\n\n\t\t...Impressao das Arestas...\n\n");
-
-    if(CliqueMax.tamClique > 1)
-        printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique);
-    else
-        printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique-1);
-
+    
+    if(CliqueMax.tamClique > 1)printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique);
+    else printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique-1);
 
 	for(i=0 ; i<CliqueMax.tamClique -1 ; i++){
 		printf("\t\t%d <----> %d\n",CliqueMax.Principal,CliqueMax.vetClique[i]);
@@ -209,7 +182,7 @@ int main(){
 	apresentacao();
 	lerArquivo();
 	if(Grafo.tamVertices < 21)
-            imprimeMatriz();
+        imprimeMatriz();
     else
         printf("\nNao vai imprimir tabela.. total de vertices > 20\n\n");
 

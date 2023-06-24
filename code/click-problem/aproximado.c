@@ -31,7 +31,7 @@ void pulaLinha(){
 
 void imprimeMatriz(){
 
-    printf("\n\n\t...Matriz de Adjacencia...\n\n");
+    printf("\n\n\t...Imprimindo Matriz de Adjacencia...\n\n");
 
     int i , j;
 
@@ -120,9 +120,7 @@ void lerArquivo() {
 
 
 void apresentacao(){
-
-	printf("\n\t\t...Problema do Clique Maximo...\n\n\tComponentes\n\t\tFelipe Derkian,\n\t\tBruno Cesar.\n\n");
-
+	printf("\n\t\t!Problema do Clique Maximo!\n\n\t");
 }
 
 void zeraVisitado(){
@@ -135,22 +133,15 @@ void zeraVisitado(){
 
 
 void verificarCliqueMaximo(){
-
     limpaClique();
-
     int  vertice , i , j , tam_adj;
-
     tam_adj = 0;
     int vet_adj[TAM]={0};
-
     printf("\t\t...Procurando Clique no Grafo...\n\n");
 
 	for(vertice=0 ; vertice <= Grafo.tamVertices ; vertice++){
-
         if(Grafo.vetVisitado[vertice] == PRETO) continue;
-
         printf("Verificando vertice %d.\n",vertice);
-
         tam_adj=0;
 
 		//pega os adjacentes ao vertice selecionado
@@ -179,14 +170,11 @@ void verificarCliqueMaximo(){
 			}
 		}
 
-
         //verifica se é maior que o maior ja encontrado
 		if( tot > CliqueMax.tamClique){
-
 			CliqueMax.tamClique = tot;
 			CliqueMax.Principal = vertice;
             Grafo.vetVisitado[vertice] = PRETO;
-
 			int k=0;
 			for(i=0 ; i<tam_adj ; i++){
 				if(vet_adj[i] != -1){
@@ -194,7 +182,6 @@ void verificarCliqueMaximo(){
 					Grafo.vetVisitado[ vet_adj[i] ] = PRETO;
 				}
 			}
-
 		}else{ //marca o clique como ja encontrado, mesmo nao sendo maximo
             Grafo.vetVisitado[vertice] = PRETO;
             int y;
@@ -203,28 +190,20 @@ void verificarCliqueMaximo(){
                     Grafo.vetVisitado[ vet_adj[y] ] = PRETO;
             }
 		}
-
 	}
-
 }
 
 void imprimeCliqueMax(){
-
 	int i , j;
-
 	printf("\n\n\t\t...Impressao das Arestas...\n\n");
-
-	if(CliqueMax.tamClique > 1)
-        printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique);
-    else
-        printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique - 1);
-
+	if(CliqueMax.tamClique > 1) printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique);
+    else printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique - 1);
 	for(i=0 ; i<CliqueMax.tamClique -1 ; i++){
 		printf("\t\t%d <----> %d\n",CliqueMax.Principal,CliqueMax.vetClique[i]);
 	}
 
-	for(i=0 ; i<CliqueMax.tamClique -2 ; i++){
-		for(j=i+1 ; j<CliqueMax.tamClique-1 ; j++){
+	for(i=0 ; i < CliqueMax.tamClique -2 ; i++){
+		for(j = i + 1; j < CliqueMax.tamClique-1 ; j++){
 			printf("\t\t%d <----> %d\n",CliqueMax.vetClique[i], CliqueMax.vetClique[j]);
 		}
 	}

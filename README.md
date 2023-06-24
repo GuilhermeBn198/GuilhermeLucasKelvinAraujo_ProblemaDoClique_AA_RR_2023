@@ -39,14 +39,10 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
         -   [x] configuração de plataforma de benchmark de testes
         -   [x] testes com o algoritmo de força bruta
     -   [ ] semana 20/06 ~ 26/06 -> finalização de pesquisa, desenvolvimento de apresentação e entrega dos trabalhos
--   [ ] procurar sobre mitigação de risco
-    -   [ ] a
-    -   [ ] b
-    -   [ ] c
--   [ ] Gerência de Artefato
-    -   [ ] a
-    -   [ ] b
-    -   [ ] c
+        -   [x] (re)configuração de plataforma de testes
+        -   [x] geração de grafos para prova de conceito
+        -   [x] 
+
 
 ---
 
