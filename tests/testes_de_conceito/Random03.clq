@@ -1,0 +1,14 @@
+c
+c Random Graph Generator
+c
+c Graph Size:3
+c
+p edge 3 9
+e 0 3
+e 1 0
+e 1 2
+e 2 3
+e 2 3
+e 2 0
+e 3 0
+e 3 0

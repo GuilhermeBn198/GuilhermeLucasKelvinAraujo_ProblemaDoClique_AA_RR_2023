@@ -20,9 +20,6 @@ struct cliqueMax{
 	int vetClique[TAM];
 }CliqueMax;
 
-void espera(){
-	getchar();
-}
 
 void pulaLinha(){
 	printf("\n");
@@ -79,7 +76,6 @@ void lerArquivo() {
     if (f == NULL) {
         system("clear");
         printf("\n\n\tNao foi possivel acessar o arquivo...\n\n");
-        espera();
         exit(1);
     }
     printf("\n\n\t...Lendo Arquivo com Grafo...\n\n");
@@ -97,13 +93,7 @@ void lerArquivo() {
             Grafo.Matriz[a][v] = 1;
         }
     }
-
     fclose(f);
-}
-
-
-void apresentacao(){
-	printf("\n\t\t!Problema do Clique Maximo!\n\n");
 }
 
 void verificarCliqueMaximo(){
@@ -179,7 +169,6 @@ void imprimeCliqueMax(){
 }
 
 int main(){
-	apresentacao();
 	lerArquivo();
 	if(Grafo.tamVertices < 21)
         imprimeMatriz();

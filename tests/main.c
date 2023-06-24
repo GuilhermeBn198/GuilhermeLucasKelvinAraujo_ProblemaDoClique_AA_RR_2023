@@ -21,10 +21,6 @@ struct cliqueMax{
 	int vetClique[TAM];
 }CliqueMax;
 
-void espera(){
-	getchar();
-}
-
 void pulaLinha(){
 	printf("\n");
 }
@@ -49,10 +45,6 @@ void imprimeMatriz(){
         }
         pulaLinha();
     }
-    pulaLinha();
-
-    printf("\nPress para sair..");
-    espera();
     pulaLinha();
     pulaLinha();
 
@@ -84,19 +76,15 @@ void limpaClique(){
 }
 
 
-void lerArquivo() {
+void lerArquivo(const char* input_file_path) {
     limparGrafo();
-
-    FILE *f = fopen("ArquivoGrafo.txt", "r");
-
+    FILE *f = fopen(input_file_path, "r");
     if (f == NULL) {
         system("clear");
         printf("\n\n\tNao foi possivel acessar o arquivo...\n\n");
-        espera();
         exit(1);
     }
-
-    printf("\n\n\t...Lendo Arquivo com Grafo...\n\n");
+    //printf("\n\n\t...Lendo Arquivo com Grafo...\n\n");
 
     char line[256];
     int totalVertices, totalEdges;
@@ -114,7 +102,6 @@ void lerArquivo() {
             Grafo.Matriz[a][v] = 1;
         }
     }
-
     fclose(f);
 }
 
@@ -130,7 +117,7 @@ void verificarCliqueMaximo(){
     int  vertice , i , j , tam_adj;
     tam_adj = 0;
     int vet_adj[TAM]={0};
-    printf("\t\t...Procurando Clique no Grafo...\n\n");
+    // printf("\t\t...Procurando Clique no Grafo...\n\n");
 
 	for(vertice=0 ; vertice <= Grafo.tamVertices ; vertice++){
         if(Grafo.vetVisitado[vertice] == PRETO) continue;
@@ -188,26 +175,30 @@ void verificarCliqueMaximo(){
 
 void imprimeCliqueMax(){
 	int i , j;
-	printf("\n\n\t\t...Impressao das Arestas...\n\n");
+	// printf("\n\n\t\t...Impressao das Arestas...\n\n");
 	
     if(CliqueMax.tamClique > 1) printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique);
     else printf("\tClique maximo no Grafo = %d.\n\n",CliqueMax.tamClique - 1);
 	
-    for(i=0 ; i<CliqueMax.tamClique -1 ; i++){
-		printf("\t\t%d <----> %d\n",CliqueMax.Principal,CliqueMax.vetClique[i]);
-	}
+    // for(i=0 ; i<CliqueMax.tamClique -1 ; i++){
+	// 	printf("\t\t%d <----> %d\n",CliqueMax.Principal,CliqueMax.vetClique[i]);
+	// }
 
-	for(i=0 ; i < CliqueMax.tamClique -2 ; i++){
-		for(j = i + 1; j < CliqueMax.tamClique-1 ; j++){
-			printf("\t\t%d <----> %d\n",CliqueMax.vetClique[i], CliqueMax.vetClique[j]);
-		}
-	}
+	// for(i=0 ; i < CliqueMax.tamClique -2 ; i++){
+	// 	for(j = i + 1; j < CliqueMax.tamClique-1 ; j++){
+	// 		printf("\t\t%d <----> %d\n",CliqueMax.vetClique[i], CliqueMax.vetClique[j]);
+	// 	}
+	// }
 
 }
 
-int main(){
-	lerArquivo();
-
+int main(int argc, char *argv[]){
+	if (argc < 2) {
+        printf("Usage: %s <input_file_path>\n", argv[0]);
+        return 1;
+    }
+    const char *input_file_path = argv[1];
+    lerArquivo(input_file_path);
 	if(Grafo.tamVertices < 21)
             imprimeMatriz();
     else
@@ -223,9 +214,6 @@ int main(){
 	imprimeCliqueMax();
 
     printf("\nTempo total Clique: %lf seg\n\n",tempoTotal);
-
-    printf("Press enter..");
-    espera();
 
 	return 0;
 }

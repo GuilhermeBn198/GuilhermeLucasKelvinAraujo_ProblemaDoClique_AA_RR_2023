@@ -1,0 +1,4070 @@
+1089 - [2023-06-24 00:19:59,947] : DEBUG -> Experiment script executed
+1089 - [2023-06-24 00:19:59,947] : DEBUG -> Listing input files to the program
+1089 - [2023-06-24 00:19:59,951] : DEBUG -> Running the program with each input 7 times
+1089 - [2023-06-24 00:19:59,953] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 0
+1089 - [2023-06-24 00:20:02,329] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:20:02,329] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:02,329] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000148 seg
+
+
+1089 - [2023-06-24 00:20:02,330] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:02,330] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 1
+1089 - [2023-06-24 00:20:04,332] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:20:04,332] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:04,332] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:20:04,333] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:04,333] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 2
+1089 - [2023-06-24 00:20:06,388] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:20:06,388] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:06,389] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:20:06,389] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:06,389] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 3
+1089 - [2023-06-24 00:20:08,466] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:20:08,466] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:08,466] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000136 seg
+
+
+1089 - [2023-06-24 00:20:08,466] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:08,467] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 4
+1089 - [2023-06-24 00:20:10,530] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:20:10,530] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:10,531] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000093 seg
+
+
+1089 - [2023-06-24 00:20:10,531] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:10,531] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 5
+1089 - [2023-06-24 00:20:12,794] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:20:12,794] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:12,795] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000110 seg
+
+
+1089 - [2023-06-24 00:20:12,795] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:12,795] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo03.clq - Time 6
+1089 - [2023-06-24 00:20:14,982] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:20:14,982] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:14,982] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	1	
+2	1	1	0	1	
+3	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000110 seg
+
+
+1089 - [2023-06-24 00:20:14,983] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:14,985] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 0
+1089 - [2023-06-24 00:20:17,151] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:20:17,152] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:17,152] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000087 seg
+
+
+1089 - [2023-06-24 00:20:17,152] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:17,153] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 1
+1089 - [2023-06-24 00:20:19,294] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:20:19,294] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:19,294] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:20:19,295] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:19,295] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 2
+1089 - [2023-06-24 00:20:21,340] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:20:21,340] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:21,341] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:20:21,341] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:21,341] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 3
+1089 - [2023-06-24 00:20:23,452] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:20:23,453] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:23,453] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000089 seg
+
+
+1089 - [2023-06-24 00:20:23,453] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:23,453] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 4
+1089 - [2023-06-24 00:20:25,650] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:20:25,650] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:25,651] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:20:25,651] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:25,651] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 5
+1089 - [2023-06-24 00:20:27,754] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:20:27,755] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:27,755] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000087 seg
+
+
+1089 - [2023-06-24 00:20:27,755] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:27,756] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo06.clq - Time 6
+1089 - [2023-06-24 00:20:29,826] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:20:29,826] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:29,827] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	
+2	1	1	0	1	1	1	1	
+3	1	1	1	0	1	1	1	
+4	1	1	1	1	0	1	1	
+5	1	1	1	1	1	0	1	
+6	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:20:29,827] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:29,829] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 0
+1089 - [2023-06-24 00:20:31,879] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:20:31,879] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:31,879] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:20:31,879] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:31,880] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 1
+1089 - [2023-06-24 00:20:33,906] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:20:33,907] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:33,907] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000103 seg
+
+
+1089 - [2023-06-24 00:20:33,907] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:33,907] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 2
+1089 - [2023-06-24 00:20:36,139] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:20:36,139] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:36,140] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000082 seg
+
+
+1089 - [2023-06-24 00:20:36,140] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:36,140] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 3
+1089 - [2023-06-24 00:20:38,170] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:20:38,170] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:38,170] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000098 seg
+
+
+1089 - [2023-06-24 00:20:38,171] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:38,171] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 4
+1089 - [2023-06-24 00:20:40,316] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:20:40,317] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:40,317] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000103 seg
+
+
+1089 - [2023-06-24 00:20:40,317] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:40,318] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 5
+1089 - [2023-06-24 00:20:42,327] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:20:42,327] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:42,328] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000101 seg
+
+
+1089 - [2023-06-24 00:20:42,328] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:42,328] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo09.clq - Time 6
+1089 - [2023-06-24 00:20:44,470] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:20:44,471] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:44,471] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	
+8	1	1	1	1	1	1	1	1	0	1	
+9	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 10.
+
+
+Tempo total Clique: 0.000089 seg
+
+
+1089 - [2023-06-24 00:20:44,471] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:44,473] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 0
+1089 - [2023-06-24 00:20:46,475] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:20:46,475] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:46,476] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:20:46,476] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:46,476] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 1
+1089 - [2023-06-24 00:20:48,506] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:20:48,506] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:48,506] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:20:48,507] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:48,507] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 2
+1089 - [2023-06-24 00:20:50,625] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:20:50,625] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:50,625] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000097 seg
+
+
+1089 - [2023-06-24 00:20:50,626] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:50,626] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 3
+1089 - [2023-06-24 00:20:52,791] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:20:52,791] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:52,792] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:20:52,792] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:52,792] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 4
+1089 - [2023-06-24 00:20:54,791] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:20:54,791] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:54,791] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000082 seg
+
+
+1089 - [2023-06-24 00:20:54,792] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:54,792] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 5
+1089 - [2023-06-24 00:20:56,822] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:20:56,822] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:56,823] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:20:56,823] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:56,823] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo12.clq - Time 6
+1089 - [2023-06-24 00:20:58,829] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:20:58,829] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:58,830] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 13.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:20:58,830] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:20:58,832] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 0
+1089 - [2023-06-24 00:21:00,869] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:21:00,869] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:00,869] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:21:00,870] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:00,870] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 1
+1089 - [2023-06-24 00:21:02,883] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:21:02,883] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:02,884] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000091 seg
+
+
+1089 - [2023-06-24 00:21:02,884] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:02,884] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 2
+1089 - [2023-06-24 00:21:04,997] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:21:04,997] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:04,997] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000100 seg
+
+
+1089 - [2023-06-24 00:21:04,998] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:04,998] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 3
+1089 - [2023-06-24 00:21:07,087] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:21:07,087] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:07,088] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:21:07,088] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:07,088] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 4
+1089 - [2023-06-24 00:21:09,212] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:21:09,212] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:09,212] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:21:09,213] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:09,213] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 5
+1089 - [2023-06-24 00:21:11,199] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:21:11,199] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:11,199] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:21:11,200] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:11,200] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo15.clq - Time 6
+1089 - [2023-06-24 00:21:13,200] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:21:13,201] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:13,201] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 16.
+
+
+Tempo total Clique: 0.000094 seg
+
+
+1089 - [2023-06-24 00:21:13,201] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:13,204] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 0
+1089 - [2023-06-24 00:21:15,250] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:21:15,250] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:15,250] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:21:15,251] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:15,251] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 1
+1089 - [2023-06-24 00:21:17,256] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:21:17,256] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:17,257] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000104 seg
+
+
+1089 - [2023-06-24 00:21:17,257] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:17,257] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 2
+1089 - [2023-06-24 00:21:19,337] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:21:19,338] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:19,338] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:21:19,338] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:19,338] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 3
+1089 - [2023-06-24 00:21:21,373] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:21:21,374] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:21,374] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000087 seg
+
+
+1089 - [2023-06-24 00:21:21,374] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:21,374] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 4
+1089 - [2023-06-24 00:21:23,408] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:21:23,408] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:23,408] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:21:23,408] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:23,409] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 5
+1089 - [2023-06-24 00:21:25,394] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:21:25,394] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:25,394] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:21:25,395] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:25,395] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo18.clq - Time 6
+1089 - [2023-06-24 00:21:27,382] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:21:27,383] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:27,383] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+3	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+4	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+5	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
+6	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	
+7	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+8	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
+9	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
+10	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	
+11	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+13	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	
+14	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+15	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+16	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+17	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+18	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 19.
+
+
+Tempo total Clique: 0.000111 seg
+
+
+1089 - [2023-06-24 00:21:27,383] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:27,385] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 0
+1089 - [2023-06-24 00:21:29,399] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:21:29,400] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:29,400] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000106 seg
+
+
+1089 - [2023-06-24 00:21:29,400] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:29,400] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 1
+1089 - [2023-06-24 00:21:31,602] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:21:31,602] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:31,602] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000113 seg
+
+
+1089 - [2023-06-24 00:21:31,602] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:31,603] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 2
+1089 - [2023-06-24 00:21:33,616] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:21:33,617] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:33,617] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000087 seg
+
+
+1089 - [2023-06-24 00:21:33,617] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:33,618] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 3
+1089 - [2023-06-24 00:21:35,630] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:21:35,630] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:35,631] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000161 seg
+
+
+1089 - [2023-06-24 00:21:35,631] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:35,631] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 4
+1089 - [2023-06-24 00:21:37,744] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:21:37,744] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:37,744] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000097 seg
+
+
+1089 - [2023-06-24 00:21:37,744] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:37,745] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 5
+1089 - [2023-06-24 00:21:39,885] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:21:39,886] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:39,886] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:21:39,886] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:39,887] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo21.clq - Time 6
+1089 - [2023-06-24 00:21:41,874] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:21:41,875] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:41,875] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 22.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:21:41,875] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:41,877] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 0
+1089 - [2023-06-24 00:21:43,908] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:21:43,908] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:43,908] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000092 seg
+
+
+1089 - [2023-06-24 00:21:43,909] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:43,909] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 1
+1089 - [2023-06-24 00:21:45,918] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:21:45,918] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:45,918] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000101 seg
+
+
+1089 - [2023-06-24 00:21:45,919] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:45,919] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 2
+1089 - [2023-06-24 00:21:48,044] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:21:48,044] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:48,045] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000121 seg
+
+
+1089 - [2023-06-24 00:21:48,045] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:48,045] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 3
+1089 - [2023-06-24 00:21:50,085] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:21:50,085] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:50,085] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000109 seg
+
+
+1089 - [2023-06-24 00:21:50,086] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:50,086] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 4
+1089 - [2023-06-24 00:21:52,241] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:21:52,241] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:52,241] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000104 seg
+
+
+1089 - [2023-06-24 00:21:52,241] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:52,242] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 5
+1089 - [2023-06-24 00:21:54,232] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:21:54,232] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:54,233] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:21:54,233] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:54,233] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo24.clq - Time 6
+1089 - [2023-06-24 00:21:56,243] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:21:56,244] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:56,244] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 25.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:21:56,244] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:56,246] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 0
+1089 - [2023-06-24 00:21:58,212] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:21:58,212] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:58,213] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000093 seg
+
+
+1089 - [2023-06-24 00:21:58,213] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:21:58,213] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 1
+1089 - [2023-06-24 00:22:00,294] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:22:00,294] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:00,294] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000123 seg
+
+
+1089 - [2023-06-24 00:22:00,294] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:00,295] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 2
+1089 - [2023-06-24 00:22:02,437] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:22:02,437] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:02,437] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000099 seg
+
+
+1089 - [2023-06-24 00:22:02,438] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:02,438] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 3
+1089 - [2023-06-24 00:22:04,542] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:22:04,542] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:04,542] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000098 seg
+
+
+1089 - [2023-06-24 00:22:04,543] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:04,543] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 4
+1089 - [2023-06-24 00:22:06,670] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:22:06,671] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:06,671] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000093 seg
+
+
+1089 - [2023-06-24 00:22:06,671] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:06,671] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 5
+1089 - [2023-06-24 00:22:08,814] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:22:08,815] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:08,815] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000094 seg
+
+
+1089 - [2023-06-24 00:22:08,815] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:08,816] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo27.clq - Time 6
+1089 - [2023-06-24 00:22:10,923] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:22:10,923] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:10,923] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 28.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:22:10,924] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:10,926] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 0
+1089 - [2023-06-24 00:22:13,046] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:22:13,046] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:13,047] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000094 seg
+
+
+1089 - [2023-06-24 00:22:13,047] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:13,047] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 1
+1089 - [2023-06-24 00:22:15,115] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:22:15,115] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:15,116] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000089 seg
+
+
+1089 - [2023-06-24 00:22:15,116] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:15,116] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 2
+1089 - [2023-06-24 00:22:17,130] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:22:17,130] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:17,130] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000087 seg
+
+
+1089 - [2023-06-24 00:22:17,131] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:17,131] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 3
+1089 - [2023-06-24 00:22:19,151] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:22:19,151] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:19,151] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000129 seg
+
+
+1089 - [2023-06-24 00:22:19,151] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:19,152] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 4
+1089 - [2023-06-24 00:22:21,149] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:22:21,149] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:21,149] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000090 seg
+
+
+1089 - [2023-06-24 00:22:21,150] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:21,150] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 5
+1089 - [2023-06-24 00:22:23,152] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:22:23,152] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:23,153] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000092 seg
+
+
+1089 - [2023-06-24 00:22:23,153] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:23,153] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Completo30.cql - Time 6
+1089 - [2023-06-24 00:22:25,163] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:22:25,163] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:25,163] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+	Clique maximo no Grafo = 31.
+
+
+Tempo total Clique: 0.000104 seg
+
+
+1089 - [2023-06-24 00:22:25,164] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:25,166] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 0
+1089 - [2023-06-24 00:22:27,335] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:22:27,335] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:27,336] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:22:27,336] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:27,336] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 1
+1089 - [2023-06-24 00:22:29,379] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:22:29,380] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:29,380] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000145 seg
+
+
+1089 - [2023-06-24 00:22:29,380] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:29,381] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 2
+1089 - [2023-06-24 00:22:31,565] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:22:31,566] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:31,566] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:22:31,566] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:31,566] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 3
+1089 - [2023-06-24 00:22:33,608] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:22:33,608] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:33,609] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000102 seg
+
+
+1089 - [2023-06-24 00:22:33,609] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:33,609] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 4
+1089 - [2023-06-24 00:22:35,600] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:22:35,601] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:35,601] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:22:35,601] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:35,601] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 5
+1089 - [2023-06-24 00:22:37,594] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:22:37,594] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:37,594] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000081 seg
+
+
+1089 - [2023-06-24 00:22:37,595] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:37,595] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random03.clq - Time 6
+1089 - [2023-06-24 00:22:39,602] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:22:39,603] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:39,603] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 3
+
+	0	1	2	3	
+
+0	0	1	1	1	
+1	1	0	1	0	
+2	1	1	0	1	
+3	1	0	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:22:39,603] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:39,605] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 0
+1089 - [2023-06-24 00:22:41,593] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:22:41,593] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:41,594] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:22:41,594] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:41,594] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 1
+1089 - [2023-06-24 00:22:43,579] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:22:43,580] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:43,580] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000083 seg
+
+
+1089 - [2023-06-24 00:22:43,580] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:43,581] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 2
+1089 - [2023-06-24 00:22:45,568] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:22:45,568] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:45,569] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000089 seg
+
+
+1089 - [2023-06-24 00:22:45,569] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:45,569] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 3
+1089 - [2023-06-24 00:22:47,591] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:22:47,591] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:47,592] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000089 seg
+
+
+1089 - [2023-06-24 00:22:47,592] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:47,592] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 4
+1089 - [2023-06-24 00:22:49,612] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:22:49,613] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:49,613] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:22:49,613] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:49,613] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 5
+1089 - [2023-06-24 00:22:51,624] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:22:51,624] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:51,625] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:22:51,625] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:51,625] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random06.clq - Time 6
+1089 - [2023-06-24 00:22:53,655] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:22:53,655] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:53,655] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 6
+
+	0	1	2	3	4	5	6	
+
+0	0	1	1	1	0	1	0	
+1	1	0	1	0	0	1	1	
+2	1	1	0	1	1	0	1	
+3	1	0	1	0	0	0	1	
+4	0	0	1	0	0	1	1	
+5	1	1	0	0	1	0	1	
+6	0	1	1	1	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 5.
+	Clique maximo no Grafo = 3.
+
+
+Tempo total Clique: 0.000113 seg
+
+
+1089 - [2023-06-24 00:22:53,656] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:53,658] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 0
+1089 - [2023-06-24 00:22:55,867] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:22:55,867] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:55,868] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000109 seg
+
+
+1089 - [2023-06-24 00:22:55,868] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:55,868] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 1
+1089 - [2023-06-24 00:22:57,831] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:22:57,832] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:57,832] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:22:57,832] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:57,832] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 2
+1089 - [2023-06-24 00:22:59,924] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:22:59,925] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:59,925] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000100 seg
+
+
+1089 - [2023-06-24 00:22:59,925] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:22:59,925] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 3
+1089 - [2023-06-24 00:23:02,113] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:23:02,114] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:02,114] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000098 seg
+
+
+1089 - [2023-06-24 00:23:02,115] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:02,115] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 4
+1089 - [2023-06-24 00:23:04,309] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:23:04,310] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:04,310] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000133 seg
+
+
+1089 - [2023-06-24 00:23:04,310] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:04,311] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 5
+1089 - [2023-06-24 00:23:06,477] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:23:06,477] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:06,477] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000093 seg
+
+
+1089 - [2023-06-24 00:23:06,478] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:06,478] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random09.clq - Time 6
+1089 - [2023-06-24 00:23:08,637] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:23:08,638] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:08,638] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 9
+
+	0	1	2	3	4	5	6	7	8	9	
+
+0	0	1	0	1	0	0	0	1	1	1	
+1	1	0	1	0	0	1	1	0	1	1	
+2	0	1	0	1	1	1	1	0	0	1	
+3	1	0	1	0	0	1	0	1	0	1	
+4	0	0	1	0	0	0	1	0	1	0	
+5	0	1	1	1	0	0	1	1	0	1	
+6	0	1	1	0	1	1	0	1	1	1	
+7	1	0	0	1	0	1	1	0	0	0	
+8	1	1	0	0	1	0	1	0	0	0	
+9	1	1	1	1	0	1	1	0	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+	Clique maximo no Grafo = 5.
+
+
+Tempo total Clique: 0.000136 seg
+
+
+1089 - [2023-06-24 00:23:08,638] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:08,641] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 0
+1089 - [2023-06-24 00:23:10,794] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:23:10,794] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:10,795] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000099 seg
+
+
+1089 - [2023-06-24 00:23:10,795] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:10,795] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 1
+1089 - [2023-06-24 00:23:12,909] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:23:12,910] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:12,910] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000085 seg
+
+
+1089 - [2023-06-24 00:23:12,910] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:12,911] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 2
+1089 - [2023-06-24 00:23:14,940] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:23:14,940] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:14,940] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:23:14,941] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:14,941] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 3
+1089 - [2023-06-24 00:23:17,034] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:23:17,034] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:17,035] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000084 seg
+
+
+1089 - [2023-06-24 00:23:17,035] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:17,035] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 4
+1089 - [2023-06-24 00:23:19,115] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:23:19,115] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:19,115] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000092 seg
+
+
+1089 - [2023-06-24 00:23:19,116] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:19,116] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 5
+1089 - [2023-06-24 00:23:21,234] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:23:21,234] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:21,235] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:23:21,235] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:21,235] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random12.clq - Time 6
+1089 - [2023-06-24 00:23:23,226] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:23:23,227] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:23,227] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 12
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	
+
+0	0	1	0	0	0	1	1	0	0	1	1	1	1	
+1	1	0	1	1	0	1	1	1	1	0	1	1	0	
+2	0	1	0	0	0	0	1	1	1	1	1	0	1	
+3	0	1	0	0	1	1	0	1	0	1	1	1	0	
+4	0	0	0	1	0	1	0	0	0	1	0	1	0	
+5	1	1	0	1	1	0	0	0	0	0	1	0	0	
+6	1	1	1	0	0	0	0	1	0	0	0	1	0	
+7	0	1	1	1	0	0	1	0	0	0	1	1	0	
+8	0	1	1	0	0	0	0	0	0	0	1	1	0	
+9	1	0	1	1	1	0	0	0	0	0	1	1	0	
+10	1	1	1	1	0	1	0	1	1	1	0	0	1	
+11	1	1	0	1	1	0	1	1	1	1	0	0	0	
+12	1	0	1	0	0	0	0	0	0	0	1	0	0	
+
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 4.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 11.
+Verificando vertice 12.
+	Clique maximo no Grafo = 4.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:23:23,227] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:23,230] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 0
+1089 - [2023-06-24 00:23:25,226] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:23:25,227] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:25,227] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000089 seg
+
+
+1089 - [2023-06-24 00:23:25,227] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:25,228] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 1
+1089 - [2023-06-24 00:23:27,236] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:23:27,237] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:27,237] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000098 seg
+
+
+1089 - [2023-06-24 00:23:27,237] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:27,238] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 2
+1089 - [2023-06-24 00:23:29,234] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:23:29,235] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:29,235] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:23:29,235] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:29,236] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 3
+1089 - [2023-06-24 00:23:31,229] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:23:31,229] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:31,230] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000086 seg
+
+
+1089 - [2023-06-24 00:23:31,230] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:31,230] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 4
+1089 - [2023-06-24 00:23:33,250] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:23:33,250] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:33,250] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000115 seg
+
+
+1089 - [2023-06-24 00:23:33,251] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:33,251] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 5
+1089 - [2023-06-24 00:23:35,455] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:23:35,455] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:35,455] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000087 seg
+
+
+1089 - [2023-06-24 00:23:35,456] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:35,456] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random15.clq - Time 6
+1089 - [2023-06-24 00:23:37,461] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:23:37,461] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:37,462] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 15
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+
+0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	
+1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	
+2	1	1	0	0	1	0	1	0	0	0	0	1	1	1	1	1	
+3	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	
+4	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	
+5	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	
+6	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	
+7	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0	
+8	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	
+9	0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	
+10	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	
+11	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+12	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	
+13	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	
+14	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	
+15	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 15.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000098 seg
+
+
+1089 - [2023-06-24 00:23:37,462] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:37,464] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 0
+1089 - [2023-06-24 00:23:39,613] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:23:39,614] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:39,614] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000088 seg
+
+
+1089 - [2023-06-24 00:23:39,614] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:39,614] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 1
+1089 - [2023-06-24 00:23:41,606] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:23:41,607] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:41,607] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000091 seg
+
+
+1089 - [2023-06-24 00:23:41,607] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:41,607] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 2
+1089 - [2023-06-24 00:23:43,641] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:23:43,641] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:43,641] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000099 seg
+
+
+1089 - [2023-06-24 00:23:43,641] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:43,642] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 3
+1089 - [2023-06-24 00:23:45,888] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:23:45,889] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:45,889] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000093 seg
+
+
+1089 - [2023-06-24 00:23:45,889] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:45,889] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 4
+1089 - [2023-06-24 00:23:47,929] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:23:47,929] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:47,929] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000117 seg
+
+
+1089 - [2023-06-24 00:23:47,929] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:47,930] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 5
+1089 - [2023-06-24 00:23:50,187] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:23:50,188] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:50,188] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000090 seg
+
+
+1089 - [2023-06-24 00:23:50,188] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:50,188] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random18.clq - Time 6
+1089 - [2023-06-24 00:23:52,185] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:23:52,186] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:52,186] : DEBUG -> 
+
+	...Imprimindo Matriz de Adjacencia...
+
+	Total de Vertices = 18
+
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	
+
+0	0	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	
+1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	
+2	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1	
+3	1	1	1	0	1	1	0	1	0	1	0	0	0	1	1	1	1	0	0	
+4	0	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	0	0	
+5	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	
+6	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	0	0	0	
+7	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	
+8	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1	1	
+9	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	1	0	1	0	
+10	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	
+11	0	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	
+12	1	0	1	0	0	0	0	0	0	1	0	1	0	1	0	1	0	1	0	
+13	0	0	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	
+14	0	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	
+15	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	
+16	0	0	0	1	1	0	0	0	1	0	0	1	0	1	1	0	0	0	1	
+17	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	
+18	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	
+
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 2.
+Verificando vertice 6.
+Verificando vertice 10.
+Verificando vertice 11.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000106 seg
+
+
+1089 - [2023-06-24 00:23:52,186] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:52,188] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 0
+1089 - [2023-06-24 00:23:54,374] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:23:54,374] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:54,374] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000094 seg
+
+
+1089 - [2023-06-24 00:23:54,375] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:54,375] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 1
+1089 - [2023-06-24 00:23:56,370] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:23:56,370] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:56,370] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000096 seg
+
+
+1089 - [2023-06-24 00:23:56,370] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:56,371] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 2
+1089 - [2023-06-24 00:23:58,375] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:23:58,376] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:58,376] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000102 seg
+
+
+1089 - [2023-06-24 00:23:58,376] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:23:58,377] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 3
+1089 - [2023-06-24 00:24:00,493] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:24:00,494] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:00,494] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000101 seg
+
+
+1089 - [2023-06-24 00:24:00,494] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:00,494] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 4
+1089 - [2023-06-24 00:24:02,483] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:24:02,484] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:02,484] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000095 seg
+
+
+1089 - [2023-06-24 00:24:02,484] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:02,484] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 5
+1089 - [2023-06-24 00:24:04,483] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:24:04,483] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:04,483] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000132 seg
+
+
+1089 - [2023-06-24 00:24:04,483] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:04,484] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random21.clq - Time 6
+1089 - [2023-06-24 00:24:06,477] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:24:06,477] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:06,478] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 4.
+Verificando vertice 5.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 17.
+Verificando vertice 19.
+	Clique maximo no Grafo = 8.
+
+
+Tempo total Clique: 0.000093 seg
+
+
+1089 - [2023-06-24 00:24:06,478] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:06,480] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 0
+1089 - [2023-06-24 00:24:08,482] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:24:08,482] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:08,483] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000107 seg
+
+
+1089 - [2023-06-24 00:24:08,483] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:08,483] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 1
+1089 - [2023-06-24 00:24:10,573] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:24:10,573] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:10,573] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000095 seg
+
+
+1089 - [2023-06-24 00:24:10,574] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:10,574] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 2
+1089 - [2023-06-24 00:24:12,571] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:24:12,572] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:12,572] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000108 seg
+
+
+1089 - [2023-06-24 00:24:12,572] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:12,573] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 3
+1089 - [2023-06-24 00:24:14,570] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:24:14,570] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:14,571] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000126 seg
+
+
+1089 - [2023-06-24 00:24:14,571] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:14,571] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 4
+1089 - [2023-06-24 00:24:16,573] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:24:16,573] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:16,573] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000104 seg
+
+
+1089 - [2023-06-24 00:24:16,574] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:16,574] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 5
+1089 - [2023-06-24 00:24:18,584] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:24:18,585] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:18,585] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000137 seg
+
+
+1089 - [2023-06-24 00:24:18,585] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:18,586] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random24.clq - Time 6
+1089 - [2023-06-24 00:24:20,574] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:24:20,574] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:20,575] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 1.
+Verificando vertice 3.
+Verificando vertice 8.
+Verificando vertice 9.
+Verificando vertice 10.
+Verificando vertice 13.
+Verificando vertice 14.
+Verificando vertice 16.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+	Clique maximo no Grafo = 6.
+
+
+Tempo total Clique: 0.000124 seg
+
+
+1089 - [2023-06-24 00:24:20,575] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:20,577] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 0
+1089 - [2023-06-24 00:24:22,653] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:24:22,653] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:22,654] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000101 seg
+
+
+1089 - [2023-06-24 00:24:22,654] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:22,654] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 1
+1089 - [2023-06-24 00:24:24,739] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:24:24,739] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:24,739] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000114 seg
+
+
+1089 - [2023-06-24 00:24:24,740] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:24,740] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 2
+1089 - [2023-06-24 00:24:26,862] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:24:26,863] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:26,863] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000122 seg
+
+
+1089 - [2023-06-24 00:24:26,863] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:26,864] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 3
+1089 - [2023-06-24 00:24:29,057] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:24:29,057] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:29,057] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000118 seg
+
+
+1089 - [2023-06-24 00:24:29,058] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:29,058] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 4
+1089 - [2023-06-24 00:24:31,191] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:24:31,191] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:31,192] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000115 seg
+
+
+1089 - [2023-06-24 00:24:31,192] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:31,192] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 5
+1089 - [2023-06-24 00:24:33,360] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:24:33,360] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:33,361] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000124 seg
+
+
+1089 - [2023-06-24 00:24:33,361] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:33,361] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random27.clq - Time 6
+1089 - [2023-06-24 00:24:35,495] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:24:35,496] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:35,496] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 2.
+Verificando vertice 3.
+Verificando vertice 6.
+Verificando vertice 8.
+Verificando vertice 12.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 17.
+Verificando vertice 18.
+Verificando vertice 20.
+Verificando vertice 21.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 27.
+	Clique maximo no Grafo = 7.
+
+
+Tempo total Clique: 0.000111 seg
+
+
+1089 - [2023-06-24 00:24:35,496] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:35,499] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 0
+1089 - [2023-06-24 00:24:37,636] : DEBUG -> Program output: - Time 0
+1089 - [2023-06-24 00:24:37,637] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:37,637] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000133 seg
+
+
+1089 - [2023-06-24 00:24:37,637] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:37,638] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 1
+1089 - [2023-06-24 00:24:39,827] : DEBUG -> Program output: - Time 1
+1089 - [2023-06-24 00:24:39,828] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:39,828] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000141 seg
+
+
+1089 - [2023-06-24 00:24:39,828] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:39,829] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 2
+1089 - [2023-06-24 00:24:41,964] : DEBUG -> Program output: - Time 2
+1089 - [2023-06-24 00:24:41,964] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:41,965] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000114 seg
+
+
+1089 - [2023-06-24 00:24:41,965] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:41,965] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 3
+1089 - [2023-06-24 00:24:44,130] : DEBUG -> Program output: - Time 3
+1089 - [2023-06-24 00:24:44,130] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:44,130] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000112 seg
+
+
+1089 - [2023-06-24 00:24:44,131] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:44,131] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 4
+1089 - [2023-06-24 00:24:46,298] : DEBUG -> Program output: - Time 4
+1089 - [2023-06-24 00:24:46,298] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:46,298] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000118 seg
+
+
+1089 - [2023-06-24 00:24:46,299] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:46,299] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 5
+1089 - [2023-06-24 00:24:48,456] : DEBUG -> Program output: - Time 5
+1089 - [2023-06-24 00:24:48,457] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:48,457] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000149 seg
+
+
+1089 - [2023-06-24 00:24:48,457] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:48,457] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023/tests/testes_de_conceito/Random30.clq - Time 6
+1089 - [2023-06-24 00:24:50,645] : DEBUG -> Program output: - Time 6
+1089 - [2023-06-24 00:24:50,646] : DEBUG -> ---------------------------
+1089 - [2023-06-24 00:24:50,646] : DEBUG -> 
+Nao vai imprimir tabela.. total de vertices > 20
+
+Verificando vertice 0.
+Verificando vertice 3.
+Verificando vertice 5.
+Verificando vertice 6.
+Verificando vertice 7.
+Verificando vertice 8.
+Verificando vertice 11.
+Verificando vertice 13.
+Verificando vertice 16.
+Verificando vertice 18.
+Verificando vertice 19.
+Verificando vertice 22.
+Verificando vertice 23.
+Verificando vertice 24.
+Verificando vertice 26.
+Verificando vertice 29.
+	Clique maximo no Grafo = 9.
+
+
+Tempo total Clique: 0.000116 seg
+
+
+1089 - [2023-06-24 00:24:50,646] : DEBUG -> ---------------------------
