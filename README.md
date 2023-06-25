@@ -179,3 +179,4 @@ para inicializar a plataforma de testes `python script_run_exp1` para utiliza√ß√
 -   https://github.com/Fan-Yi/Local-Search-for-Maximum-Edge-Weight-Clique/tree/master
 -   https://link.springer.com/article/10.1007/s10878-020-00529-9#citeas
 -   https://iq.opengenus.org/greedy-approach-to-find-single-maximal-clique/
+-   https://dl.acm.org/doi/abs/10.1613/jair.1.12327   <-- artigo fastwclq

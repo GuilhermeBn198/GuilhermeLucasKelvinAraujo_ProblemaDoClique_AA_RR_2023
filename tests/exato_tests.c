@@ -99,7 +99,6 @@ void lerArquivo(const char* input_file_path) {
             Grafo.Matriz[a][v] = 1;
         }
     }
-
     fclose(f);
 }
 

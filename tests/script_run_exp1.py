@@ -9,7 +9,7 @@ import logging
 
 logging.basicConfig(
     level=logging.DEBUG,
-    filename="resultados_testes_exato_gen.log",
+    filename="resultados_testes_exato_p-hat.log",
     filemode="w",
     format="%(process)d - [%(asctime)s] : %(levelname)s -> %(message)s",
 )
@@ -22,8 +22,8 @@ Usage mode:
 """
 
 BINARY_PROGRAM = "exato_tests"
-INPUTS_FILE = "gen"
-TIMES_RUN = 13
+INPUTS_FILE = "p_hat"
+TIMES_RUN = 5
 PATH_FILES_INPUT_LIST = []
 
 
