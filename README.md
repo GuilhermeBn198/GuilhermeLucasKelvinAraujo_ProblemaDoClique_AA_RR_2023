@@ -172,6 +172,14 @@ para compilar os algoritmos em C = `gcc -mcmodel=large ./exemplo.c -o exemplo.ex
 para inicializar a plataforma de testes `python script_run_exp1` para utilização do algoritmo aproximado. `python script_run_exp2` para utilização do algoritmo exato.
 
 ### foi feito duas implementações com algoritmo guloso, a primeira, com resultados aproximados, sem percorrer todos os vértices do grafo, fazendo com que sua acertividade seja deteriorada, porém sua velocidade de execução é mais rapida que a implementação exata. A segunda implementação, é uma implementação de algoritmo guloso, porém, essa usa força bruta, procurando EM TODOS OS vertices do grafo, até mesmo os que ja foram declarados como partes de um clique maior. 
+
+### plataforma usada
+-   Placa mãe: MSI MAG B550M BAZOOKA AMD AM4 DDR4
+-   Memória RAM: 2x8 GB XPG Spectrix 3600MHz, DDR4, CL18
+-   Processador: Ryzen 7 5700G
+-   Placa de Vídeo: AMD Radeon™ Graphics
+-   Sistema Operacional: Ubuntu linux(wsl mode on Windows 11 Home 22H2)
+-   SSD 512GB NVME M2 Leitura 7200MB/s - Gravação 2600MB/s
 ---
 
 ---
