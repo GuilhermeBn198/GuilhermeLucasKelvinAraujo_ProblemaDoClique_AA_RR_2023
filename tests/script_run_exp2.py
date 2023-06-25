@@ -9,7 +9,7 @@ import logging
 
 logging.basicConfig(
     level=logging.DEBUG,
-    filename="resultados_testes_aproximado_p-hat.log",
+    filename="resultados_testes_aproximado_justin-bieber.log",
     filemode="w",
     format="%(process)d - [%(asctime)s] : %(levelname)s -> %(message)s",
 )
@@ -22,7 +22,7 @@ Usage mode:
 """
 
 BINARY_PROGRAM = "aproximado_tests"
-INPUTS_FILE = "p_hat"
+INPUTS_FILE = "old_twitter_rt"
 TIMES_RUN = 13
 PATH_FILES_INPUT_LIST = []
 

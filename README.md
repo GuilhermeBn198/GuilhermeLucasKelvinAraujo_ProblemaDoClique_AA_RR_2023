@@ -164,6 +164,8 @@ algorithm BronKerbosch1(R, P, X) is
         - justin bieber
         - one direction
 
+    - os cliques tão baixos presentes em um grafo tão extenso representam os retweets diretamente relacionados aos pivôs que foram supracitados
+
 ## **Testes**
 ### **para testes utilizaremos a abordagem com algoritmo guloso**
 para compilar os algoritmos em C = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
