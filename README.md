@@ -158,6 +158,11 @@ algorithm BronKerbosch1(R, P, X) is
 ## **Scraping dos trending topics do twitter**
 - abordagem com twitter api + tweepy = problema de autorização do aplicativo + precisa pagar plano PRO
 - abordagem com snsrape = não há suporte para trending topics, porém há para #'s
+- consegui obter sucesso em recuperar alguns dados de Rt's do twitter datados de 2015 graças ao link fornecido pelo professor
+    - dados relacionados a posts do:
+        - barack obama
+        - justin bieber
+        - one direction
 
 ## **Testes**
 ### **para testes utilizaremos a abordagem com algoritmo guloso**
