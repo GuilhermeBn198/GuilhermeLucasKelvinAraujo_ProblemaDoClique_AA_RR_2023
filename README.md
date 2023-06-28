@@ -48,21 +48,21 @@ Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hr
 
 # **problema do clique**
 
-o problema do clique refere-se a qualquer problema que possui como objetivo encontrar subgrafos completos ("cliques") em um grafo. Como exemplo, o problema de encontrar conjuntos de nós em que todos os elementos estão conectados entre si.
+O problema do clique refere-se a qualquer problema que possui como objetivo encontrar subgrafos completos ("cliques") em um grafo. Como exemplo, o problema de encontrar conjuntos de nós em que todos os elementos estão conectados entre si.
 
 ## **características**
 
 -   Grafo não direcionado
 -   possui **K-cliques**
 
-## **o que é um clique?**
+## **O que é um clique?**
 
--   é uma representação de um subconjunto cm **K-vertices** onde todos os vertices são adjacentes um ao outro, se esse clique for isolado, poderá representar um novo grafo.
+-   É uma representação de um subconjunto cm **K-vertices** onde todos os vertices são adjacentes um ao outro, se esse clique for isolado, poderá representar um novo grafo.
     -   **EXEMPLO DE GRAFO COM 4 CLIQUES**:
-        -   imagine 1 grafo com 4 vertices e 4 arestas que ligam os vertices.
+        -   Imagine 1 grafo com 4 vertices e 4 arestas que ligam os vertices.
             <br>
             ![imagem](/img/clique1.png)
-        -   nesta imagem temos:
+        -   Nesta imagem temos:
             -   4 cliques de 1 vertice(como são de tamanho 1, conjuntos de vertices de 1 clique representam o próprio vertice)
             -   4 cliques de 2 vertices(esses cliques representam a combinação de 4 diferentes vertices)
                 <br>
@@ -71,16 +71,16 @@ o problema do clique refere-se a qualquer problema que possui como objetivo enco
         -   imagine 1 grafo com 7 vertices e 15 arestas ligando quase todos os vertices entre si, com exceção da ligação entre o vertice 2 e 5.
             <br>
             ![imagem3](/img/nclique1.png)
-        -   existem 5 cliques nesse grafo pois para se ter um clique **precisa** de ligação direta entre os vertices. Ex: 2,3,4,6,7 são cliques.
-        -   logo, esse grafo possui:
+        -   Existem 5 cliques nesse grafo pois para se ter um clique **precisa** de ligação direta entre os vertices. Ex: 2,3,4,6,7 são cliques.
+        -   Logo, esse grafo possui:
             -   5 cliques de 2 vertices
             -   1 clique máximo
 
     -   **CLIQUE MÁXIMO**
-        -   é um clique que não pode ser extendido com a adição de mais um vértice
+        -   É um clique que não pode ser extendido com a adição de mais um vértice
         
         -   **PARA IDENTIFICAR SE UM CLIQUE É MAXIMO OU NÃO**
-        -   um clique máximo só é máximo se a nova adição de vertice for adjacente a **todos** os vertices ja existentes no clique
+        -   Um clique máximo só é máximo se a nova adição de vertice for adjacente a **todos** os vertices ja existentes no clique
 
 
 ---
@@ -98,21 +98,21 @@ o problema do clique refere-se a qualquer problema que possui como objetivo enco
 
 -   P = a pertinência pode ser DECIDIDA "rapidamente"
 -   NP = a pertinência pode ser VERIFICADA "rapidamente"
--   "rapidamente" = TEMPO POLINOMIAL
+-   "Rapidamente" = TEMPO POLINOMIAL
 
 ### **Prova 1:**
 
 -   Construímos um verificador polinomial que recebe uma instância do problema e verifica se **C** é uma solução pra **&lt;G,5&gt;**
 
-    -   se for verdadeiro significa q a cadeia **&lt;G,5&gt;** está dentro da linguagem **Clique ∈ NP**
+    -   Se for verdadeiro significa q a cadeia **&lt;G,5&gt;** está dentro da linguagem **Clique ∈ NP**
 
--   certificado **"c"** = conjunto de nós(vértices) de **k-cliques**
+-   Certificado **"c"** = conjunto de nós(vértices) de **k-cliques**
 
     <br>
 
 -   Verificador(V) = entrada **<&lt;G,k&gt;, C>** onde **G** = é o grafo e **k** é o nó a ser verificado
 
-    -   por exemplo, vamos considerar o grafo **G** supracitado e a sequência apresentada para o mesmo.
+    -   Por exemplo, vamos considerar o grafo **G** supracitado e a sequência apresentada para o mesmo.
 
         <br><br><br>
         <h2><strong>V = <&lt;G,5&gt;, "2,3,4,6,7"></strong></h2>
@@ -156,25 +156,25 @@ algorithm BronKerbosch1(R, P, X) is
 ---
 
 ## **Scraping dos trending topics do twitter**
-- abordagem com twitter api + tweepy = problema de autorização do aplicativo + precisa pagar plano PRO
-- abordagem com snsrape = não há suporte para trending topics, porém há para #'s
-- consegui obter sucesso em recuperar alguns dados de Rt's do twitter datados de 2015 graças ao link fornecido pelo professor
+- Abordagem com twitter api + tweepy = problema de autorização do aplicativo + precisa pagar plano PRO
+- Abordagem com snsrape = não há suporte para trending topics, porém há para #'s
+- Conseguimos obter sucesso em recuperar alguns dados de Rt's do twitter datados de 2015 graças ao link fornecido pelo professor
     - dados relacionados a posts do:
-        - barack obama
-        - justin bieber
-        - one direction
+        - Barack Obama
+        - Justin Bieber
+        - One Direction
 
-    - os cliques tão baixos presentes em um grafo tão extenso representam os retweets diretamente relacionados aos pivôs que foram supracitados
+    - Os cliques tão baixos presentes em um grafo tão extenso representam os retweets diretamente relacionados aos pivôs que foram supracitados
 
 ## **Testes**
-### **para testes utilizaremos a abordagem com algoritmo guloso**
-para compilar os algoritmos em C = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
-para inicializar a plataforma de testes `python script_run_exp1` para utilização do algoritmo aproximado. `python script_run_exp2` para utilização do algoritmo exato.
+### **Para testes utilizaremos a abordagem com algoritmo guloso**
+Para compilar os algoritmos em C = `gcc -mcmodel=large ./exemplo.c -o exemplo.exe`
+Para inicializar a plataforma de testes `python script_run_exp1` para utilização do algoritmo aproximado. `python script_run_exp2` para utilização do algoritmo exato.
 
-### foi feito duas implementações com algoritmo guloso, a primeira, com resultados aproximados, sem percorrer todos os vértices do grafo, fazendo com que sua acertividade seja deteriorada, porém sua velocidade de execução é mais rapida que a implementação exata. A segunda implementação, é uma implementação de algoritmo guloso, porém, essa usa força bruta, procurando EM TODOS OS vertices do grafo, até mesmo os que ja foram declarados como partes de um clique maior. 
+### Foi feito duas implementações com algoritmo guloso, a primeira, com resultados aproximados, sem percorrer todos os vértices do grafo, fazendo com que sua acertividade seja deteriorada, porém sua velocidade de execução é mais rapida que a implementação exata. A segunda implementação, é uma implementação de algoritmo guloso, porém, essa usa força bruta, procurando EM TODOS OS vertices do grafo, até mesmo os que ja foram declarados como partes de um clique maior. 
 
-### plataforma usada
--   Placa mãe: MSI MAG B550M BAZOOKA AMD AM4 DDR4https://github.com/GuilhermeBn198/GuilhermeLucasKelvinAraujo_ProblemaDoClique_AA_RR_2023
+### Plataforma utilizada
+-   Placa mãe: MSI MAG B550M BAZOOKA AMD AM4 DDR4
 -   Memória RAM: 2x8 GB XPG Spectrix 3600MHz, DDR4, CL18
 -   Processador: Ryzen 7 5700G
 -   Placa de Vídeo: AMD Radeon™ Graphics
