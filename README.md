@@ -3,6 +3,7 @@
 Projeto final da disciplina ministrada pelo professor [Herbert rocha](https://github.com/hbgit)
 
 Relatório disponível em: [Google Drive](https://docs.google.com/document/d/1hreupGNYNrnvXrRlGJ4cHMCgvzIqBB4R/edit?usp=sharing&ouid=100008897815631174283&rtpof=true&sd=true)
+Apresentação em Slides disponível em: [Canva](https://www.canva.com/design/DAFm3rwAEWU/tLiuH8s7sHFK_X_TxV8cDA/edit?utm_content=DAFm3rwAEWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Objetivos:
 
