@@ -68,14 +68,32 @@ int main() {
     Graph* graph = create_graph(num_vertices);
 
     // adiciona as arestas
-__FILE__ 
+    add_edge(graph, 0, 1);
+    add_edge(graph, 0, 2);
+    add_edge(graph, 0, 3);
+    add_edge(graph, 0, 4);
+    
+    add_edge(graph, 1, 0);
+    add_edge(graph, 1, 2);
+    add_edge(graph, 1, 3);
+    add_edge(graph, 1, 4);
+    
+    add_edge(graph, 2, 0);
+    add_edge(graph, 2, 1);
+    add_edge(graph, 2, 3);
+    
+    add_edge(graph, 3, 0);
+    add_edge(graph, 3, 1);
+    add_edge(graph, 3, 2);
 
+    add_edge(graph, 4, 0);
+    add_edge(graph, 4, 1);
 
     // aplica o algoritmo guloso
     int* result = greedy_clique(graph);
 
     // retorna os resultados
-    printf("The vertices in the clique are: \n\n");
+    printf("Os vertices no clique sao: \n\n");
     for (int i = 0; i < num_vertices; i++) {
         printf("%d ", result[i]);
     }
